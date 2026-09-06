@@ -1,8 +1,9 @@
 # Hi there, I'm Bushra Khanam 👋 
 
 ### 🎯 Aspiring Data Scientist | Python, SQL & Data Analytics
-I am a passionate Data Science student at **10K Coders**, building end-to-end data pipelines, performing Exploratory Data Analysis (EDA), and solving real-world business problems using data.
-
+- 🎓 **Education:** Pursuing Graduation in **Artificial Intelligence & Machine Learning (AI & ML)** from **JNTUH Affiliated College**
+- 🚀 **Skills Focus:** Data Science Trainee at **10000Coders**
+- 💡 Passionate about building end-to-end data pipelines, performing Exploratory Data Analysis (EDA), and solving real-world business problems using AI & Data Science.
 ---
 
 ### 🛠️ Tech Stack & Skills
